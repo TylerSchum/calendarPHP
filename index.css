@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+th {
+  width: 13%;
+}
+
+tr {
+  min-height: 100px;
+}
+
+td {
+  height: 100px;
+  text-align: left;
+  vertical-align: top;
+  padding: 10px;
+}
+
+button {
+  height: 80px;
+  width: 100%;
+}
+
+th input[type='text'] {
+  width: 80px;
+  text-align: center;
+  border: none;
+}
